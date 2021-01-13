@@ -54,6 +54,6 @@ compile
 $ python FaceRecognition.py
 ```
 <p align="center"><img width="200" src="/markdown/Emily_Sie-test.png" /> </p>
-<p align="center"><img width="200" src="/markdown/app/Kob-test" /> </p>
-<p align="center"><img width="200" src="/markdown/app/Ta-test" /> </p>
-<p align="center"><img width="200" src="/markdown/app/Team1-test" /> </p>
+<p align="center"><img width="200" src="/markdown/app/Kob-test.png" /> </p>
+<p align="center"><img width="200" src="/markdown/app/Ta-test.png" /> </p>
+<p align="center"><img width="200" src="/markdown/app/Team1-test.png" /> </p>
